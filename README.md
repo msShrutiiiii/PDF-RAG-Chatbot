@@ -151,5 +151,5 @@ Final answer
 
 ---
 
-Built by **Shruti Umakant Rede** · Jaihind Polytechnic, Pune  
+Built by **Shruti Umakant Rede** , Pune  
 Stack: FastAPI · LangChain · FAISS · Groq API · HuggingFace · Python
